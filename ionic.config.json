@@ -1,6 +1,6 @@
 {
-  "name": "myApp",
-  "app_id": "5286e4a4",
+  "name": "Dwak - Prix & Pharmacies de garde",
+  "app_id": "",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
